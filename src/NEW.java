@@ -1,2 +1,2 @@
-public class NEW {
+public class NEW {ffgh
 }
